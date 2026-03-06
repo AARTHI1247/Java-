@@ -1,0 +1,15 @@
+import java.util.*;
+import java.util.Scanner;
+public class Q21{ 
+    public static void main(String[] args) {
+        Scanner scan=new Scanner(System.in);
+        int maintenance   =scan.nextInt();
+        int parking=scan.nextInt();
+        int hall=scan.nextInt();
+        int security =scan.nextInt();
+        int  electricity=scan.nextInt();
+        int cleaning=scan.nextInt();
+        int sum=maintenance+parking+hall-security -electricity-cleaning;
+        System.out.println(sum);
+    }
+}
