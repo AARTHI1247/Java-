@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-public class Q5{ 
+public class Q9{ 
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int usernameMatch =scan.nextInt();
