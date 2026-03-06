@@ -8,7 +8,6 @@ public class Q4{
         int examFee=scan.nextInt();
         int libraryFee=scan.nextInt();
         int tvalue=(tuitionFees*scholarship)/100;
-         //System.out.println(tvalue);
         int sum=tuitionFees-tvalue;
         int value=sum+examFee+libraryFee;
         System.out.println(value);
