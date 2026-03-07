@@ -10,6 +10,6 @@ public class Q1{
         int pf=scan.nextInt();
         int value=basic+hra+bonus-tax-pf;
         System.out.println(value);
-    }
+    }                    
 }
                     
