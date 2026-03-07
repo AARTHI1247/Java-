@@ -12,3 +12,4 @@ public class Q1{
         System.out.println(value);
     }
 }
+                    
