@@ -9,7 +9,7 @@ public class Q1{
         scan.nextLine();
         for (int i=0;i<n;i++){
             String name=scan.nextLine();
-            double sal=scan.nextInt();
+            double sal=scan.nextDouble();
             int r=scan.nextInt();
             scan.nextLine();
             if(r==5){
