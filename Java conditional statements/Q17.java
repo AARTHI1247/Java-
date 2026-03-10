@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q8{
+public class Q17{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
