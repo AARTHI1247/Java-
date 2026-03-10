@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QStorage {
+public class Q20{
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
