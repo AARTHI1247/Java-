@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DeliveryFee {
+public class Q24{
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
