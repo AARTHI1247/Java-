@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParkingFee {
+public class Q21{
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
