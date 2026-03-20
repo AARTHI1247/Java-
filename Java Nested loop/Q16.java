@@ -22,5 +22,10 @@ public class Q16{
             }
             System.out.println();
         }
+        int ts=r*c;
+        int v=ts-n;
+        double or=(double)n/ts*100;
+         System.out.print("Total Spots:"+ts+"\n"+"Occupied: "+n+"\n"+"Vaccant: "+v+"\n");
+           System.out.printf("Occupancy Rate: "+"%.2f%%",or);
     }
 }
