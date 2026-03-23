@@ -12,7 +12,7 @@ public class Q8{
           int max=arr[0];
           double av=(double)sum/n;
           for(int i=0;i<n;i++){
-              if(arr[i]>max){
+              if(arr[i]>max){        
                   max=arr[i];
               }
                if(arr[i]>60){
