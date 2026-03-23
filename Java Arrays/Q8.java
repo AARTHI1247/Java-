@@ -5,7 +5,7 @@ public class Q8{
           int n=scan.nextInt();
           int sum=0,c=0;
           int arr[]=new int[n];
-          for(int i=0;i<n;i++){
+          for(int i=0;i<n;i++){ 
             arr[i]=scan.nextInt();
             sum=sum+arr[i];
           }
