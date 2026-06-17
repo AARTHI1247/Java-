@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class random {
+public class Q1 {
     static void main() {
         Scanner scan=new Scanner(System.in);
         ArrayList<Integer> arr=new ArrayList<>();
