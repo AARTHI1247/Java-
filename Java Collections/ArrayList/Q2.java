@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class random {
+public class Q2 {
     static void main() {
         Scanner scan=new Scanner(System.in);
         int n=scan.nextInt();
